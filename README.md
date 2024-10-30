@@ -8,11 +8,11 @@
 
 ## overview
 
-> gdgb: *get dexcom blood glucose*
+> gdbg: *get dexcom blood glucose*
 
 a python app that displays blood glucose in the macos menu bar. retrieves blood glucose from dexcom via the [pydexcom](https://github.com/gagebenne/pydexcom) library. it also writes the blood glucose and arrow (with terminal colors) to a state file that can be used for displaying data in your terminal.
 
-this app was inspire by [kylebshr/luka-mini](https://github.com/kylebshr/luka-mini/tree/main). i wanted to be able to access the blood glucose data outside of the app for other uses.
+this app was inspired by [kylebshr/luka-mini](https://github.com/kylebshr/luka-mini/tree/main). i wanted to be able to access the blood glucose data outside of the app for other uses.
 
 ## how to use
 
