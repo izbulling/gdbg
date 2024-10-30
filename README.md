@@ -68,7 +68,7 @@ pip install -r requirements.txt
 to use in zsh prompt, update `$PROMPT` in `$HOME/.zshrc`. the backslash when setting `$PROMPT` to execute the function to read the bg text file is __critical__ (will not work otherwise).
 
 ```sh
-# ~/.zshrc
+# $HOME/.zshrc
 
 function get_bg() {
     cat $HOME/.dexcom/bg_color_status.txt
